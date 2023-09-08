@@ -1,0 +1,38 @@
+[
+	{
+		"title": "SAMSUNG GALAXY A24",
+		"description": "Pantalla Super Amoled, 128GB y 4GB",
+		"price": 1400000,
+		"thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftecnologia.duna.com.co%2Fproducto%2Fsamsung-a24-128gb%2F&psig=AOvVaw1zNGFqob2sNB1u4Pn7LTSp&ust=1694225011594000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCsmJT2mYEDFQAAAAAdAAAAABAF",
+		"code": "SAMGAL-3389",
+		"stock": 16,
+		"id": 1
+	},
+	{
+		"title": "Lavadora Samsung WA19T6260BY Gris",
+		"description": "Carga Superior Motor Digital Inverter",
+		"price": 2300000,
+		"thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fco%2Fwashers-and-dryers%2Fwashing-machines%2Ftop-load-17kg-black-caviar-wa17t6260bv-co%2F&psig=AOvVaw0kTiCX3byE32CgTRrj6f5O&ust=1693763322677000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiM3aG-jIEDFQAAAAAdAAAAABAE",
+		"code": "SAM-2345",
+		"stock": 20,
+		"id": 3
+	},
+	{
+		"title": "Televisor LG 55Pulgadas UR8750PSA",
+		"description": "LED 4K-UHD 2023 Smart Tv",
+		"price": 2200000,
+		"thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.exito.com%2Ftelevisor-lg-55-pulgadas-led-uhd-4k-smart-tv-55ur8750psaawc-3122473%2Fp&psig=AOvVaw2YQIU89tqVmlXvEC0iqiap&ust=1693855148827000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjw7qWUj4EDFQAAAAAdAAAAABAJ",
+		"code": "LGS-7799",
+		"stock": 10,
+		"id": 4
+	},
+	{
+		"title": "Computador portatil HP 15 Pulgadas Ef2524la",
+		"description": "Procesador AMD R5 Ram 8GB DiscoSSD 512 GB",
+		"price": 5000000,
+		"thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ktronix.com%2Fcomputador-portatil-hp-156-pulgadas-ef2505la-amd-ryzen-7-ram-8gb-disco-ssd-512-gb-dorado%2Fp%2F196337771505&psig=AOvVaw0xxg-EuAd3IE2n6NabtP6b&ust=1693882009978000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCR7634j4EDFQAAAAAdAAAAABAG",
+		"code": "LGS-7799",
+		"stock": 25,
+		"id": 5
+	}
+]
